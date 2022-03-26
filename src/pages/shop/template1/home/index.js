@@ -8,7 +8,7 @@ export default function ShopIndex() {
             <a href="/">React Shoping Cart</a>
         </header>
         <main>
-            Product List
+            Product List222222
         </main>
         <footer>
             All right is reserved
